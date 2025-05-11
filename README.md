@@ -57,6 +57,14 @@ Text will be typed automatically.
 Ctrl + S will be triggered to save.
 The file will be saved with the name MyFile.txt.
 
+![Screenshot 2025-05-11 220557](https://github.com/user-attachments/assets/b6d3cf6e-ec49-47eb-83eb-b50e666a7af5)
+
+![Screenshot 2025-05-11 220605](https://github.com/user-attachments/assets/db69d067-48c9-4651-ae83-ea71c10c9395)
+
+![Screenshot 2025-05-11 220620](https://github.com/user-attachments/assets/ca8c8277-4897-45a9-b550-f4f3ab167d42)
+
+![Screenshot 2025-05-11 220541](https://github.com/user-attachments/assets/c8f75b1d-d6bb-4476-b6e6-32cd650d7515)
+
 ## Result:
 The workflow successfully simulates human-like typing in Notepad and saves the file using keyboard shortcuts through UiPath's keyboard automation capabilities.
 
